@@ -1,4 +1,3 @@
-# Stellah
 
 # 👋 Hi, I'm Stellah!
 
@@ -22,7 +21,7 @@ I'm a **Junior Data Analyst** passionate about **SQL, data visualization, and bu
 - **GitHub Repository:** [Sales Data Analysis](https://github.com/sussie78/sales-data-analysis)  
 
 ## 📫 Contact Me
-- **LinkedIn:** [Your LinkedIn Profile](#)  
+- **LinkedIn:** [https://www.linkedin.com/in/stellah-ulriksen-381666222](#)  
 - **Email:** your.email@example.com  
 - **GitHub:** [sussie78](https://github.com/sussie78)  
 
