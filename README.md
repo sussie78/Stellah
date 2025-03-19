@@ -22,7 +22,7 @@ I'm a **Junior Data Analyst** passionate about **SQL, data visualization, and bu
 
 ## 📫 Contact Me
 - **LinkedIn:** [https://www.linkedin.com/in/stellah-ulriksen-381666222](#)  
-- **Email:** your.email@example.com  
+- **Email:** bloodofjesusblessed@gmail.com
 - **GitHub:** [sussie78](https://github.com/sussie78)  
 
 🚀 I'm open to networking, collaboration, and job opportunities in data analytics. Feel free to connect!  
